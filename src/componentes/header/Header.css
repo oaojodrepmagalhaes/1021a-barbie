@@ -1,0 +1,41 @@
+.ll{
+    display:flex;
+    align-items:center;
+    background-color:#f2a1ca;
+    justify-content:space-between
+  }
+  .container-btn{
+    align-items:center;
+    margin-right:20px
+    
+    
+  }
+  .dd{
+    margin-left:px;
+    text-decoration:none;
+    color:#f458b0;
+    transition:1s
+  
+  }
+  
+  
+  
+  .ss{
+    height:30px;
+    margin-right:10px;
+    background-color:#f9bde7;
+    border:none;
+    border-radius:5px;
+    transition: 1s;
+  }
+  .ss:hover{
+    background-color:#ffebf9;
+    
+  }
+  .imga{
+    height:50px;
+    margin:10px
+  }
+  
+  
+
